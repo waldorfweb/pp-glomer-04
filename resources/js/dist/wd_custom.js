@@ -1,5 +1,4 @@
 $(document).ready(function() { 
-
     //Kategorieseite Beschreibung button
     $('.widget_kat_description_2').attr('id', 'secondDesc');
     $('.category-description').after('<a class="weiterlesena" href="#secondDesc"><button type="button" data-dismiss="modal" aria-label="weiter"  class="btn btn-outline-primary btn-medium mr-2 weiterlesen"> <i aria-hidden="true" class="fa fa-chevron-right"></i> weiterlesen </button></a>');
