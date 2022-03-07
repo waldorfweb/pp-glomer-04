@@ -4,7 +4,7 @@
     "version": "5.0.45",
     "repository": {
         "type": "git",
-        "url": "https://github.com/waldorfweb/pp-waldorfshop-03.git"
+        "url": "https://github.com/waldorfweb/pp-glomer-04.git"
     },
     "scripts": {
         "start": "webpack --watch --progress",
