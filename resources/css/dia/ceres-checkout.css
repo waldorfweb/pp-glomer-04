@@ -13536,7 +13536,7 @@ ul.image-list {
 
 .top-bar .controls-list > li a:not(.btn):hover {
   background-color: #ffffff;
-  color: #4f59a8; }
+  color: #561D6F; }
 
 .top-bar .controls-list .control-basket .toggle-basket-preview:hover {
   background-color: #3f4785;
@@ -13618,11 +13618,11 @@ h1.h2.pt-4.category-title {
   text-align: left;
   font-weight: bold;
   text-transform: uppercase;
-  color: #4f59a8; }
+  color: #561D6F; }
 
 a.thumb-title.small, a.thumb-title.btn-labeled {
   font-size: 20px;
-  color: #4f59a8;
+  color: #561D6F;
   font-weight: bold; }
 
 .beschreibung-artikel {
@@ -13905,7 +13905,7 @@ p.single-description.mt-3 {
 
 /* Account Box */
 .top-bar .controls-list .control-user #login-change > .dropdown.show > .dropdown-toggle {
-  background-color: #4f59a8; }
+  background-color: #561D6F; }
 
 .top-bar .controls-list .control-user #login-change > .dropdown .dropdown-menu a {
   background-color: #282d2f; }
@@ -13954,7 +13954,7 @@ h1 {
   text-align: left;
   font-weight: normal;
   text-transform: uppercase;
-  color: #4f59a8;
+  color: #561D6F;
   font-size: 1.8rem !important; }
 
 h2 {
