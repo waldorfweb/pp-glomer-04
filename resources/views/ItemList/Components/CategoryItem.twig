@@ -58,10 +58,10 @@
                     <div class="item-details__book-details">
 
                         <span v-if="item.texts.name3" class="item-details__subtitle">
-                            ${ item.texts.name3 }
+                            ${ item.texts.name3 } | ${ item.variation.releasedAt }
                         </span>
                         <span v-if="item.texts.name2" class="item-details__author">
-                            ${ item.texts.name2 } | ${ item.texts.releasedAt }
+                            ${ item.texts.name2 }
                         </span>
 
                         <span v-if="item.texts.shortDescription" class="item-details__short">
