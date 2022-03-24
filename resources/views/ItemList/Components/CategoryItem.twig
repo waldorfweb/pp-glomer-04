@@ -58,7 +58,7 @@
                     <div class="item-details__book-details">
 
                         <span v-if="item.texts.name3" class="item-details__subtitle">
-                            ${ item.texts.name3 }<span class="erscheinungsdatum"> <span v-if="item.variation.releasedAt" class="trenner">Erscheinungsdatum:</span> <span class="newdate" v-html="$options.filters.date(item.variation.releasedAt , 'D. MMMM YYYY')"></span></span>
+                            ${ item.texts.name3 }<span class="erscheinungsdatum"> <span v-if="item.variation.releasedAt" class="trenner">Erscheinungsdatum:</span> <span class="newdate" v-html="$options.filters.date(item.variation.releasedAt , 'D. LL YYYY')"></span></span>
                             
                             <!-- releaseDate cutted with jQuery -->
                         </span>
